@@ -23,15 +23,15 @@ Nuestros productos brindan la posibilidad de que las personas tomen las mejores 
 ### Qué 📄
 Ofrecemos un producto para Vehiculos y servicios en la nube que permitan el monitoreo y alerta de las condiciones de contaminates en el aire a nivel del suelo en tiempo real, seguimiento de los puntos criticos de contaminacion en el aire en tus recorridos cotidianos.
 
+## Video 📢
+Para  observar la puesta en funcionamiento del prototipo final, se a creado un vídeo en donde se visualizan los principales detalles del sistema. Cualquier observación, retroalimentación o duda la puedes dejar en los comentarios del vídeo, si te fue de utilidad déjanos tu like.
 
 ## Autores ✒️
 
 * **Jose Luis Cortes Carvajal** - *Trabajo Inicial* - [Profil Link](https://github.com/jos3cort3s)
 
-
 ## Expresiones de Gratitud 🎁
 
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 o un café ☕ a alguien del equipo. 
+* Comenta a otros sobre este proyecto 📢 
 * Da las gracias públicamente 🤓.
 
