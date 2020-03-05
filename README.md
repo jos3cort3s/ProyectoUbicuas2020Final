@@ -26,6 +26,8 @@ Ofrecemos un producto para Vehiculos y servicios en la nube que permitan el moni
 ## Video 📢
 Para  observar la puesta en funcionamiento del prototipo final, se a creado un vídeo en donde se visualizan los principales detalles del sistema. Cualquier observación, retroalimentación o duda la puedes dejar en los comentarios del vídeo, si te fue de utilidad déjanos tu like.
 
+https://www.youtube.com/watch?v=Scrf4-CmwAs
+
 ## Autores ✒️
 
 * **Jose Luis Cortes Carvajal** - *Trabajo Inicial* - [Profil Link](https://github.com/jos3cort3s)
